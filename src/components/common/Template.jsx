@@ -2,7 +2,6 @@ import React from 'react'
 import { useLocation } from 'react-router-dom'
 import Login from '../Auth/LoginForm';
 import SignupForm from '../Auth/SignupForm';
-import Circle from './circle';
 
 function Template() {
 
